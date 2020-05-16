@@ -1,6 +1,6 @@
 // On va passer à l'affichage de la table de mulitiplication d'un chiffre
 
-var nombre = prompt('Entrez un nombre pour afficher la table de multiplication'),
+let nombre = prompt('Entrez un nombre pour afficher la table de multiplication'),
     nombre1 = 0;
     
     // On va passer par une condition, "tant que"

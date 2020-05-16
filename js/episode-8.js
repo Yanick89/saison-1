@@ -1,6 +1,6 @@
 // On va afficher au alerte la condition
 
-var userName = prompt('Rentrez votre nom svp'),
+let userName = prompt('Rentrez votre nom svp'),
     sex = prompt('ainsi que votre sexe: f ou femme, h ou homme');
 
 

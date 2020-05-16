@@ -1,6 +1,6 @@
 // Ecrire un programme qui fait la somme des 10 premiers nombres entiers à partir de 1. Le résultat est affiché en console.
 
-var nbreEntier = 9,
+let nbreEntier = 9,
     nbresult,
     nbre1 = 0;
 

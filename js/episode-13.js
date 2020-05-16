@@ -1,6 +1,6 @@
 // Ecrivons un programme en boucle qui va demander au user de rentrer la bonne reponse
 
-var reponse = Number(prompt('Renseignez la bonne réponse svp. Combien font 15 + 8')) ;
+let reponse = Number(prompt('Renseignez la bonne réponse svp. Combien font 15 + 8')) ;
 
 // On passe tout de suite à la condition,
 while(reponse != 23){

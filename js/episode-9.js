@@ -1,6 +1,6 @@
 // On va écrire un programme qui demande la moyenne d'un élève
 
-var moyEleve = prompt('Veuillez renseigner votre moyenne pour l\'admission de votre enfant');
+let moyEleve = prompt('Veuillez renseigner votre moyenne pour l\'admission de votre enfant');
 
 if( moyEleve < 10 ){
     alert('Vous ne pouvez pas prétendre à une entrée dans notre établissement');
